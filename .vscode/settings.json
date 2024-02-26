@@ -1,0 +1,4 @@
+{
+  "jupyter.jupyterInterruptTimeout": 20000,
+  "editor.accessibilityPageSize": 10
+}
